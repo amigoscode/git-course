@@ -1,1 +1,1 @@
-export const data = "[{name: 'foobar'}]";
+export const data = "[{name: 'foobar'}]"
