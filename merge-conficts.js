@@ -9,5 +9,5 @@ const subtract = (n1, n2) => {
 
 export {
   add,
-  minus
+  subtract
 }
