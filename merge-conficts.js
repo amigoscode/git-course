@@ -13,5 +13,5 @@ const divide = (n1, n2) => {
 export {
   add,
   subtract,
-  divde
+  divide
 };
