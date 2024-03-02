@@ -1,1 +1,2 @@
 My first commit from VSCode
+Added a new line to the file
